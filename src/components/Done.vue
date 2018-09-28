@@ -70,6 +70,7 @@ export default {
 }
 
 .undone-button {
+  background-color: white;
   border: 1px solid red;
   color: red;
 

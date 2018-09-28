@@ -37,6 +37,7 @@ h4 {
   height: 60px;
   position: fixed;
   width: 100%;
+  z-index: 1000;
 }
 
 .navbar-actions {

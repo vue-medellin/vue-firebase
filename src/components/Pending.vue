@@ -114,6 +114,7 @@ export default {
 }
 
 .add-button {
+  background-color: white;
   border: 1px solid #304960;
   color: #304960;
 
@@ -124,6 +125,7 @@ export default {
 }
 
 .complete-button {
+  background-color: white;
   border: 1px solid #00bc7e;
   color: #00bc7e;
   margin-right: 5px;
@@ -135,6 +137,7 @@ export default {
 }
 
 .delete-button {
+  background-color: white;
   border: 1px solid red;
   color: red;
 
